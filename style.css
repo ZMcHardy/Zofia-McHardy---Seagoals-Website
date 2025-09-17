@@ -1,0 +1,39 @@
+body {
+  background-color:rgb(220, 220, 220)
+}
+h1{
+  font-size: 75px;
+  font-family: cursive;
+  font-weight: bold;
+  text-align: center;
+  background-color:rgb(143, 182, 217);
+  margin:50px;
+  border:10px solid rgb(143, 207, 192);
+  border-radius: 25px;
+  padding: 10px;
+  color:rgb(60, 60, 60);
+}
+.top-image {
+  display:block;
+  margin:auto;
+  width:50%;
+  border:solid 5px;
+}
+.para-1 {
+  font-size:18px;
+  font-family:arial, helvetica;
+  text-indent: 5%;
+  border:2px solid;
+  border-radius: 10px;
+  background-color:rgb(240, 240, 240);
+  margin:10px 20px 10px 20px;
+  padding:1%
+}
+.gallery {
+ display:inline-block;
+  text-align:center;
+}
+.gallerypic {
+  border: 5px solid;
+  margin:5px;
+}
