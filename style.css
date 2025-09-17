@@ -3,15 +3,15 @@ body {
 }
 h1{
   overflow:hidden;
-  font-size: 75px;
-  font-family: Lucida Handwriting, cursive;
+  font-size: 65px;
+  font-family: "Dancing Script", cursive;
   font-weight: bold;
   text-align: center;
   background-color:rgb(143, 182, 217);
   margin:50px;
   border:10px solid rgb(143, 207, 192);
   border-radius: 25px;
-  padding: 10px;
+  padding:5px 2px 5px 2px;
   color:rgb(60, 60, 60);
 }
 .top-image {
